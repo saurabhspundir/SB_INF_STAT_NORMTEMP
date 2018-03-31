@@ -38,4 +38,4 @@ Using data in file 'data/human_body_temperature.csv' following needs to find out
 <b>The task contains following steps.</b></br>
 1.	Reading data provided from csv file. </br>
 2.	Create data frame for the data</br>
-3.	Apply the infenertial statiscs skills to get answers</br>
+3.	Apply the infenertial statiscs skills to get answers </br>
